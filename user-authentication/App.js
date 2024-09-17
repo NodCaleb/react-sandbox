@@ -8,7 +8,6 @@ import WelcomeScreen from './screens/WelcomeScreen';
 import { Colors } from './constants/styles';
 import AuthContextProvider from './store/auth-context';
 import { useContext, useEffect, useState } from 'react';
-import AuthContent from './components/Auth/AuthContent';
 import { AuthContext } from './store/auth-context';
 import IconButton from './components/ui/IconButton';
 import AsyncStorage from '@react-native-async-storage/async-storage';
