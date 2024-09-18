@@ -5165,6 +5165,11 @@ punycode@^2.1.1:
   resolved "https://registry.yarnpkg.com/punycode/-/punycode-2.3.1.tgz#027422e2faec0b25e1549c3e1bd8309b9133b6e5"
   integrity sha512-vYt7UD1U9Wg6138shLtLOvdAu+8DsC/ilFtEVHcH+wydcSpNE20AfSOduf6MkRFahL5FY7X1oU7nKVZFtfq8Fg==
 
+pushy-react-native@^1.0.40:
+  version "1.0.40"
+  resolved "https://registry.yarnpkg.com/pushy-react-native/-/pushy-react-native-1.0.40.tgz#e73679d69e2dfe2ef5e7d5a590f568ef7e523445"
+  integrity sha512-wdUa2IytsSVE52/vbfrTZpW66uKLAT4Le1mLC/DXKNh4Vv+w4tWBXXKUfGxZiXzSytVN3Mvge4C5OGm23Al3eg==
+
 qrcode-terminal@0.11.0:
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/qrcode-terminal/-/qrcode-terminal-0.11.0.tgz#ffc6c28a2fc0bfb47052b47e23f4f446a5fbdb9e"
